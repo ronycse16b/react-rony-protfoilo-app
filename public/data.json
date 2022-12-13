@@ -1,0 +1,71 @@
+[
+    {
+     
+  
+      "project_id":"1",
+      "title": "Easy Learnnings with Quiz",
+      "img1": " https://i.ibb.co/2n2Q4bS/Easy1.jpg",
+      "img2": " https://i.ibb.co/4shxB8m/Easy2.jpg",
+      "img3": " https://i.ibb.co/8sxmVnM/Easy3.jpg",
+      "details": "This Project made purpose by you can learn easy with test your skill on like quiz it is open sourse project you can learn easyly and grow up your skill ",
+       
+      "techology": "HTML,CSS,Tailwind css Javascript, react js etc toast",
+      
+      "f1":"Open Sourse no need to sign in",
+      "f2":"learn with quiz ",
+      "f3":"currect answer or wrong answer alert",
+      "f4":"Growing your skill 4 topices",
+      "f5":"nices implement",
+
+      "live":"https://elearningquiz.netlify.app/",
+      "github":"https://github.com/ronycse16b/tech"
+      
+},
+    {
+     
+    
+   
+       
+    
+      "project_id":"2",
+      "title": "Computer Solution",
+      "img1": " https://i.ibb.co/jR4VpNV/com1.jpg",
+      "img2": "https://i.ibb.co/vDjnSvt/com2.jpg",
+      "img3": " https://i.ibb.co/NWFNNns/com3.jpg",
+      "details": "This Project made purpose for you can get any computer solution ata home just sign and chose your services now order then you can provided services order opinion services bad or good , here is atuthorization data safe.",
+       "f1":"User Login ",
+       "f2":"book services ",
+       "f3":"Buyer get feedback",
+       "f4":"check Review",
+       "f5":"Autihontication valid user",
+       "techology": "HTML,CSS,Tailwind css Javascript, react js etc toast,node js, express js,mongo db",
+       
+      "live":"https://computer2022.netlify.app/",
+      "github":"https://github.com/ronycse16b/services-review-client-side"
+},
+    {
+     
+    
+   
+       
+      
+      "project_id":"2",
+      "title": "Used Bike BD",
+      "img1": "https://i.ibb.co/k0ypFGS/used1.jpg",
+      "img2": "https://i.ibb.co/K2bB6n1/used2.jpg",
+      "img3": "https://i.ibb.co/cwQPcvk/used3.jpg",
+      "details": "This Project made purpose for Used Product By and sell services you can also seller or buyer . you also by and sel services payment .",
+
+      "f1":"User Login & admin , seller Dashboar ",
+      "f2":"booking services ",
+      "f3":"Buyer get feedback",
+      "f4":"check order details",
+      "f5":"Autihontication valid user admin mange contro payment advertiesment",
+
+      "techology": "HTML,CSS,Tailwind css Javascript, react js etc toast,node js, express js,mongo db",
+      "live":"https://use-bike-bd.web.app/",
+      "github":"https://github.com/ronycse16b/used-sell-products"
+}
+
+
+] 
